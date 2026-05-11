@@ -34,6 +34,43 @@ Organizamos nossos repositórios nas seguintes categorias:
 
 Seguimos um padrão de nomenclatura:
 
+## 🧾 Padrão de Commits e Issues
+
+Para manter consistência e facilitar o rastreamento de mudanças, seguimos um padrão baseado em **Conventional Commits**.
+
+### 🔹 Tipos de commit
+
+Utilize os seguintes prefixos:
+
+
+- FEAT:    nova funcionalidade
+- FIX:     correção de bug
+- DOC:     documentação
+- STYLE:   ajustes de estilo (sem impacto funcional)
+- REFACTOR: refatoração de código
+- TEST:    criação ou ajuste de testes
+- CHORE:   tarefas gerais/manutenção
+
+---
+
+### 🧠 Boas práticas
+
+- Use mensagens claras e objetivas  
+- Descreva *o que foi feito* e não *como foi feito*  
+- Prefira títulos curtos e descritivos  
+- Utilize sempre letras maiúsculas nos prefixos  
+
+---
+
+## 📋 Padrão de Issues
+
+Para organização das tarefas, utilize títulos claros seguindo o padrão:
+
+- [FEAT] Criar tela de cadastro de dados
+- [FIX] Corrigir erro no modelo de predição
+- [DOC] Documentar integração com APEX
+---
+
 ## 🤝 Colaboração
 
 Para contribuir:
